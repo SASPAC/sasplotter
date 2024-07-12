@@ -27,9 +27,9 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="false"
    inkscape:zoom="1.1430232"
-   inkscape:cx="187.66023"
+   inkscape:cx="57.304174"
    inkscape:cy="103.235"
-   inkscape:window-width="1920"
+   inkscape:window-width="3840"
    inkscape:window-height="2107"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
@@ -65,50 +65,50 @@
    id="レイヤー_2">
 	<g
    id="g29"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round">
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none">
 		<g
    id="g27"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round">
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none">
 			<path
    d="M201.72,131.41c3.38,1.89,8.19,3.38,13.41,3.38c7.43,0,11.8-3.35,11.8-8.27c0-4.5-2.93-7.14-10.84-9.51     c-9.73-2.84-15.11-6.93-15.11-13.83c0-7.6,7.25-13.25,18.16-13.25c5.91,0,10.23,1.18,12.8,2.46l-2.04,5.22     c-1.79-0.93-5.68-2.43-10.96-2.43c-7.85,0-10.71,4.02-10.71,7.32c0,4.44,3.38,6.73,11.31,9.18c9.7,3.05,14.66,6.9,14.66,14.36     c0,7.26-6.02,14.07-19.67,14.07c-5.53,0-11.59-1.48-14.75-3.38L201.72,131.41z"
    id="path7"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M253.41,123.9l-5.98,15.39h-7.49l19.58-48.53h8.71l19.75,48.53h-7.74L274,123.9H253.41z M272.48,118.91l-5.86-14.29     c-1.25-3.12-2.08-5.79-2.91-8.41h-0.17c-0.81,2.67-1.66,5.4-2.78,8.3l-5.82,14.4H272.48z"
    id="path9"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M295.3,131.41c3.38,1.89,8.19,3.38,13.41,3.38c7.43,0,11.8-3.35,11.8-8.27c0-4.5-2.93-7.14-10.84-9.51     c-9.73-2.84-15.11-6.93-15.11-13.83c0-7.6,7.25-13.25,18.16-13.25c5.92,0,10.23,1.18,12.8,2.46l-2.04,5.22     c-1.79-0.93-5.68-2.43-10.96-2.43c-7.85,0-10.71,4.02-10.71,7.32c0,4.44,3.38,6.73,11.31,9.18c9.7,3.05,14.66,6.9,14.66,14.36     c0,7.26-6.02,14.07-19.67,14.07c-5.53,0-11.59-1.48-14.75-3.38L295.3,131.41z"
    id="path11"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M374.73,83.34c4.14-0.62,9.64-1.14,16.72-1.14c8.44,0,14.55,1.74,18.42,4.82c3.5,2.71,5.72,6.81,5.72,11.87     c0,5.12-1.76,9.28-5.12,12.23c-4.52,4.12-11.72,6.17-20.15,6.17c-2.72,0-5.21-0.1-7.26-0.61v22.61h-8.34V83.34z M383.07,110.62     c2.01,0.54,4.57,0.72,7.53,0.72c10.44,0,16.65-4.39,16.65-12.07c0-7.83-6.62-11.19-15.74-11.19c-3.98,0-6.92,0.33-8.45,0.61     V110.62z"
    id="path13"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M425.83,87.91h7.19v51.38h-7.19V87.91z"
    id="path15"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M482.76,121.49c0,12.78-10.56,18.64-20.56,18.64c-11.23,0-19.85-7.12-19.85-17.94c0-11.44,8.97-18.56,20.5-18.56     C474.85,103.64,482.76,111.18,482.76,121.49z M449.72,121.97c0,8.01,5.62,13.35,12.77,13.35c7.05,0,12.9-5.18,12.9-13.58     c0-6-3.75-13.3-12.72-13.3C453.83,108.44,449.72,115.12,449.72,121.97z"
    id="path17"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M500.71,94.3v10.17h10.67v4.92h-10.67v18.38c0,4.3,1.31,7,5.59,7c2,0,3.43-0.23,4.41-0.51l0.33,4.92     c-1.42,0.51-3.76,0.94-6.65,0.94c-3.4,0-6.2-1.03-7.92-2.8c-2.02-1.99-2.82-5.21-2.82-9.15v-18.78h-6.26v-4.92h6.26v-8.53     L500.71,94.3z"
    id="path19"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M528.54,94.3v10.17h10.67v4.92h-10.67v18.38c0,4.3,1.31,7,5.59,7c2,0,3.43-0.23,4.41-0.51l0.33,4.92     c-1.42,0.51-3.76,0.94-6.65,0.94c-3.4,0-6.2-1.03-7.92-2.8c-2.02-1.99-2.82-5.21-2.82-9.15v-18.78h-6.26v-4.92h6.26v-8.53     L528.54,94.3z"
    id="path21"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M551.59,123.16c0.16,8.13,6.48,11.92,14.09,11.92c5.52,0,8.78-0.86,11.6-1.88l1.28,4.59c-2.53,1-7.04,2.33-13.81,2.33     c-12.44,0-20.08-7.19-20.08-17.59c0-10.41,7.24-18.89,19.28-18.89c13.59,0,16.93,10.46,16.93,16.58c0,1.32-0.09,2.28-0.26,2.94     H551.59z M573.92,118.51c0.06-3.39-1.62-10.29-10.52-10.29c-7.82,0-11.1,5.96-11.72,10.29H573.92z"
    id="path23"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 			<path
    d="M590.14,115.69c0-4.35-0.09-7.86-0.32-11.22h6.32l0.26,7.11h0.26c1.92-4.95,6.4-7.94,11.33-7.94     c0.81,0,1.4,0.05,2.09,0.2v6.02c-0.79-0.15-1.56-0.21-2.63-0.21c-5.18,0-8.81,3.39-9.83,8.27c-0.19,0.88-0.3,1.92-0.3,2.92v18.47     h-7.19V115.69z"
    id="path25"
-   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round" />
+   style="stroke:#ffffff;stroke-opacity:1;paint-order:markers stroke fill;stroke-linecap:round;stroke-width:3;stroke-dasharray:none" />
 		</g>
 	</g>
 	<circle
