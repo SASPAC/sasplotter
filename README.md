@@ -1,3 +1,5 @@
+![sasplotter](./SAS-Plotter-logo.svg)
+
 ## `sasplotter` - modern graph suite for SAS
 
 ---
